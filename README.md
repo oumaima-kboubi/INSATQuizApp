@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+This is a mini app quiz about INSAT to highlight the use of naviagtion in a flutter app.
 
 ## Getting Started
 
